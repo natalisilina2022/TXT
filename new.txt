@@ -1,0 +1,6 @@
+name Natali
+lastName Silina
+age 41
+pets 1
+future Salary 5000
+

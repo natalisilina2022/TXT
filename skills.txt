@@ -1,0 +1,4 @@
+skill - basic programming knowledge
+skill - testing via Postman
+skill - basic Android Studio knowledge
+skill - mobile testing
